@@ -1,1 +1,1 @@
-# bit_foctor
+# bit_factor
